@@ -73,8 +73,7 @@ Me chamo Lenington Rios, graduando em Engenharia de Computação e sou desenvolv
   
 </p>
 
-<h3>
-  📈 Trabalho atualmente com:</h3>
+<h3> 📈 Trabalho atualmente com:</h3>
 <p>
   
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
@@ -90,13 +89,15 @@ Me chamo Lenington Rios, graduando em Engenharia de Computação e sou desenvolv
   
 </p>
 
+<h3>⚡ GitHub Stats</h3>
+
 ![Lenington GitHub Status](https://github-readme-stats.vercel.app/api?username=lenington&show_icons=true)
-![Lenington GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lenington&count_private=true)
+![Lenington GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lenington&layout=compact)
 
 - 💬 Me pergunte sobre qualquer coisa;
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/lenington-rios-3a331a179);
 - 📝 [Resumo](https://resume.io/r/LlNDkk2kc)
-- [Lattes CNPq](http://lattes.cnpq.br/1149737649786693)
+- 📊 [Lattes CNPq](http://lattes.cnpq.br/1149737649786693)
 
 
 
