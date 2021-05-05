@@ -1,8 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá </h1>
 
-Me chamo Lenington Rios, graduando em Engenharia de Computação e sou desenvolvedor Backend
-
 <a href="https://twitter.com/LeningtonRios">
   <img align="left" alt="Lenington Rios | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
