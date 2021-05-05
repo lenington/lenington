@@ -92,6 +92,7 @@ Me chamo Lenington Rios, graduando em Engenharia de Computação e sou desenvolv
 <h3>⚡ GitHub Stats</h3>
 
 ![Lenington GitHub Status](https://github-readme-stats.vercel.app/api?username=lenington&show_icons=true)
+
 ![Lenington GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lenington&layout=compact)
 
 - 💬 Me pergunte sobre qualquer coisa;
